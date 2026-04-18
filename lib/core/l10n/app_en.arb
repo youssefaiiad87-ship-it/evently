@@ -1,0 +1,13 @@
+{
+  "@@locale": "en",
+  "appSetupTitle": "Personalize Your Experience",
+  "@appSetupTitle": {
+    "description": "Title for the setup screen"
+  },
+  "appSetupDescription": "Choose your preferred theme and language to get started with a comfortable, tailored experience that suits your style.",
+  "language": "Language",
+  "english": "English",
+  "arabic": "Arabic",
+  "theme": "Theme",
+  "letStart": "Let's Get Started"
+}
